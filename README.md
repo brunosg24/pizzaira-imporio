@@ -1,34 +1,54 @@
 <div align="center">
 
-<img src="assets/cover.svg" alt="Pizzaria Império — conceito de cardápio digital" width="100%">
+<img src="assets/cover.svg" width="100%" alt="PIZZARIA IMPÉRIO — capa do projeto">
 
-# Pizzaria Império
-### Uma ideia de cardápio digital
+# PIZZARIA IMPÉRIO
+### DIGITAL MENU / CONCEPT PROJECT
 
-Repositório reservado ao desenvolvimento de uma experiência digital para apresentação de produtos de uma pizzaria. A proposta é organizar o cardápio de forma visual, intuitiva e acessível.
+Conceito de cardápio digital com foco em apresentar sabores, categorias e opções de pedido em uma experiência simples e visual.
 
-[![Acessar repositório](https://img.shields.io/badge/REPOSITÓRIO-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/brunosg24/pizzaira-imporio)
+[![ABRIR REPOSITÓRIO](https://img.shields.io/badge/ABRIR_REPOSITÓRIO-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunosg24/pizzaira-imporio)
+
+![Project](https://img.shields.io/badge/PORTFÓLIO-BRUNO_S.-64748b?style=flat-square)
 
 </div>
 
 ---
 
-## ✦ Objetivo
-Criar uma interface onde clientes possam conhecer sabores, visualizar informações dos produtos e encontrar facilmente os canais de contato da pizzaria.
+## ✦ Visão do projeto
 
-## Ideias para evolução
-- Categorias de pizzas e acompanhamentos.
-- Cards com fotos, descrição e preço.
-- Layout responsivo para celular e computador.
-- Resumo do pedido.
-- Integração futura com WhatsApp ou sistema de pedidos.
+Conceito de cardápio digital com foco em apresentar sabores, categorias e opções de pedido em uma experiência simples e visual.
 
-## Tecnologias
-As tecnologias ainda serão definidas conforme a implementação do projeto.
+## ◈ Recursos / escopo
 
-## Status
-**Em planejamento.** Este repositório ainda não contém uma aplicação funcional. As funcionalidades acima representam objetivos de desenvolvimento.
+Escopo planejado: categorias, cards de produtos, layout mobile e fluxo demonstrativo de pedido.
+
+## ⌘ Tecnologias
+
+Tecnologias a definir
+
+## ▶ Começar
+
+```bash
+git clone https://github.com/brunosg24/pizzaira-imporio.git
+cd pizzaira-imporio
+```
+
+Os próximos passos de implementação serão documentados conforme o desenvolvimento avançar.
+
+## 🧭 Próximos passos
+
+- [ ] Evoluir a estrutura e os componentes do projeto.
+- [ ] Melhorar experiência em dispositivos móveis.
+- [ ] Documentar decisões técnicas e arquitetura.
+- [ ] Adicionar testes e validações conforme as funcionalidades forem implementadas.
+
+## ⚑ Status e transparência
+
+Projeto em planejamento; ainda não contém aplicação funcional.
 
 <div align="center">
-Desenvolvido por **Bruno** · [GitHub](https://github.com/brunosg24)
+
+**BRUNO S.** · [GitHub](https://github.com/brunosg24)
+
 </div>
